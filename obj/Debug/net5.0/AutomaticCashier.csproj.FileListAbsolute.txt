@@ -1,0 +1,16 @@
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\bin\Debug\net5.0\AutomaticCashier.exe
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\bin\Debug\net5.0\AutomaticCashier.deps.json
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\bin\Debug\net5.0\AutomaticCashier.runtimeconfig.json
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\bin\Debug\net5.0\AutomaticCashier.runtimeconfig.dev.json
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\bin\Debug\net5.0\AutomaticCashier.dll
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\bin\Debug\net5.0\ref\AutomaticCashier.dll
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\bin\Debug\net5.0\AutomaticCashier.pdb
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\obj\Debug\net5.0\AutomaticCashier.csproj.AssemblyReference.cache
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\obj\Debug\net5.0\AutomaticCashier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\obj\Debug\net5.0\AutomaticCashier.AssemblyInfoInputs.cache
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\obj\Debug\net5.0\AutomaticCashier.AssemblyInfo.cs
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\obj\Debug\net5.0\AutomaticCashier.csproj.CoreCompileInputs.cache
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\obj\Debug\net5.0\AutomaticCashier.dll
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\obj\Debug\net5.0\ref\AutomaticCashier.dll
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\obj\Debug\net5.0\AutomaticCashier.pdb
+C:\Users\Panda\source\repos\AutomaticCashier\AutomaticCashier\obj\Debug\net5.0\AutomaticCashier.genruntimeconfig.cache
